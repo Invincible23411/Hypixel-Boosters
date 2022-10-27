@@ -2,6 +2,6 @@ No need to unzip just copy the py file and open it in Visual Studio Code and run
 Have fun with this its purely just to show you who is boosting hypixel currently there will be updates to this program soon
 
 Also if you havent already open cmd and type:
-```pip install mojang```
 
+```pip install mojang```
 ```pip install requets```
